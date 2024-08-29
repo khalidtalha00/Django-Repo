@@ -1,0 +1,37 @@
+
+h3{
+    text-align: center;
+    font-family: "SUSE",sans-serif;
+    font-size: 25px;
+}
+
+#one{
+    background-color: #64D7D1;
+}
+#two{
+    background-color: #5BA789;
+}
+#three{
+    background-color:#CD9C02;
+  
+}
+
+#four{
+    background-color: #4B735E;
+    
+
+}
+
+#five{
+     background-color: #EE8700; 
+}
+
+table{
+    width: 55%;
+    height: 300px;
+    margin: auto;
+}
+
+td{
+    border: 4px solid white;
+}

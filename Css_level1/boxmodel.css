@@ -1,0 +1,19 @@
+#first{
+    border: 4px solid blue;
+    text-align: center;
+    width: 25%;
+    margin: auto; /*when we do margin auto the block is automatically cent red*/
+}
+#second{
+    border: 4px solid red;
+    text-align: center;
+    padding: 100px;
+}
+
+img{
+    width:60%;
+    margin: auto; /*this wont make the image centre unless you make its display to block*/
+    display: block;
+}
+
+/* The margin: auto; property in CSS is used to center elements horizontally, works effectively only when the element has a defined width and is a block-level element (like a div). Since images (<img> tags) are inline elements by default, the margin: auto; won't center them unless you make them behave like block-level elements. */

@@ -1,0 +1,17 @@
+body{
+    font-family:sans-serif
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size:20px;
+}
+
+#one{
+    font-style: italic;
+    font-size: 1em; /*twice the default text size*/
+    font-weight:bold;
+}

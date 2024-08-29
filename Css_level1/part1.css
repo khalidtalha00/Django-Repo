@@ -1,0 +1,15 @@
+h1{
+    color: orange;
+}
+
+li{
+    color: rgb(43, 224, 206);  /*rgb value*/
+}
+
+p{
+    color: rgba(224, 43, 70,0.7); /*rgba */
+}
+
+h2{
+    color: #34e02b;  /*hexadecimal value*/
+}

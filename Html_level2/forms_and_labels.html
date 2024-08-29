@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms and labels</title>
+</head>
+<body>
+    <form action="https://www.wikipedia.org" method="get">
+        
+        <h3> Enter your email and take me to wikipedia</h3>
+        Email:
+        <input type="email" name="email">
+        <!-- <input type="submit"> -->
+        <label for="usertext">Your messege:</label> <!--label for should always be equal to input name-->
+        <input type ="text" name="usertext" placeholder="Enter your text here" required>
+        <!-- required will make sure that when you press submit the input fiels will not have an empty value -->
+        <input type="submit">
+
+    </form>
+
+    
+</body>
+</html>

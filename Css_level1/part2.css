@@ -1,0 +1,28 @@
+/* we use . for class and # for id */
+/* body{
+    background: url("https://plus.unsplash.com/premium_photo-1673306778968-5aab577a7365?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFja2dyb3VuZCUyMGltYWdlfGVufDB8fDB8fHww");
+    background-size: cover;
+} */
+.firstdiv{
+    color: red;
+}
+
+.seconddiv{
+    color: green;
+}
+
+#singledout{
+    color: blue;
+}
+
+h3+ul{
+    border:3px solid black;
+}
+
+li a{
+    color: gray;
+}
+
+img{
+    width: 500px;
+}
