@@ -1,0 +1,58 @@
+body{
+    background-color: #6E6E6E;
+    margin: 0;
+    border-top: 0px;
+}
+
+.container{
+    background-color: #002349;
+    width: 80%;
+    height: 1380px;
+    margin: auto;
+    margin-bottom: 100px;
+    border: 2px solid gray
+    
+}
+
+.content{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.heading{
+    font-size: 30px;
+}
+
+.text{
+    padding: 30px;
+    font-size: 25px;
+}
+
+.text p{
+    margin: 60px;
+}
+
+#submit{
+    margin-top: 30px;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    border: 2px solid white;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+.content{
+    font-family: "Roboto";
+}
+
+.form{
+    font-size: 18px;
+}
+
+#formheading{
+    font-size: 25px;
+}
